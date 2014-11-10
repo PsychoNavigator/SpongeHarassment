@@ -40,7 +40,7 @@ Sponge Software Mistakes
     + Usage of delegation to underlying copyrighted code is legally unstable
     + Remapping using ASM is against copyright law. Copyrighted software is designed to be not modifiable
     + Quote from Wikipedia:
-    > By withholding source code, the software producer prevents the user from understanding how the software works and from changing how it works
+> By withholding source code, the software producer prevents the user from understanding how the software works and from changing how it works
 - Porting other implementations to SpongeAPI
   + Reasoning:
     + Will require more effort (which is clearly not shown in any Sponge-releated projects)
