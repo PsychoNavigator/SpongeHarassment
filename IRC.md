@@ -2,6 +2,16 @@ http://sbnc.khobbits.co.uk/log/logs/sponge.htm
 
 For November 9, 6:04 PM Pacific Standard Time
 
+Lol. Good one, that was really funny how you think you've banned me. 
+
+LokiChaos, yes, MS can DMCA Sponge easily, as well as me because there is content that is similar to my code, and the license is GPL so you can't ues it in Sponge. 
+
+I'm not going on Bukkit and ranting you guys out again, because too many people would stay away from Sponge! Continue harassing more members and you'll never have a doubt of sucess!
+
+Evilmidgent, I know what multithreading is. Most of Trident's code is thread-confined, but I haven't caught everything yet, thanks.
+
+Also, please stop swearing because I am 3 years old. I would  be glad to see you be banned from the channel, as it clearly states keep it PG! 
+
 > [00:00:22] 
 [00:00:22] #sponge - Mon Nov 10 00:00:22 2014
 [00:00:22] ---
