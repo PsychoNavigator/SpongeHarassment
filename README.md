@@ -8,3 +8,5 @@ Basically, I'd love to see people react to how unprofessional and idiotic these 
 Enjoy ;)
 
 PS anyone posting retarded comments will have it be deleted. Thanks!
+
+Yes, this is GPL'd!
