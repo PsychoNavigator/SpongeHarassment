@@ -31,7 +31,7 @@ Phroa, I don't care. I don't want to format your useless chatter insulting me be
 And yes disconsented, please leave it. Leave Sponge. Leave your idiotic crusade. Leave behind 
 whatever Sponge has taught you. And thank you for not swearing this time.
 
-```
+>```
 [02:23:22] <Jesika> Still losers.
 [02:24:35] <@Disconsented> You're just mean
 [02:24:40] <@Disconsented> Hate everyone :P
