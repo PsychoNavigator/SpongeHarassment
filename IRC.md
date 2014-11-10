@@ -12,6 +12,10 @@ Evilmidgent, I know what multithreading is. Most of Trident's code is thread-con
 
 Also, please stop swearing because I am 3 years old. I would  be glad to see you be banned from the channel, as it clearly states keep it PG! 
 
+I'm not going to start on reddit because I'm gonna get banned again! What a great reaction to people against your project Sponge!
+
+Disconsented, you have no idea how much I have to say. But I'm not going to say it because I'm really nice :D
+
 > [00:00:22] 
 [00:00:22] #sponge - Mon Nov 10 00:00:22 2014
 [00:00:22] ---
