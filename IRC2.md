@@ -31,7 +31,8 @@ Phroa, I don't care. I don't want to format your useless chatter insulting me be
 And yes disconsented, please leave it. Leave Sponge. Leave your idiotic crusade. Leave behind 
 whatever Sponge has taught you. And thank you for not swearing this time.
 
->[02:23:22] <Jesika> Still losers.
+>```
+[02:23:22] <Jesika> Still losers.
 [02:24:35] <@Disconsented> You're just mean
 [02:24:40] <@Disconsented> Hate everyone :P
 [02:26:06] <kodfod> Welp, if we are 'losers' I dont wanna be anythign else :3
@@ -65,3 +66,4 @@ whatever Sponge has taught you. And thank you for not swearing this time.
 [02:55:11] <@phroa> ......and yes I know I talked about it. :c
 [02:55:12] <dmod> So how is everyone?
 [02:55:26] <@phroa> getting beat by a drunk guy in smash bros playing one of the worst characters
+```
